@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [eddine.zeroual@gmail.com](mailto:eddine.zeroual@gmail.com)
-* 🧠  I'm learning Golang
+* 🧠  IA product enthusiast
 
 ### Skills
 
